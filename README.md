@@ -10,7 +10,7 @@ Project Name
 
 ---
 
-## 1. Project Vision
+1. Project Vision
 
 Sezhil is an end-to-end agricultural decision-support platform intended to combine:
 
