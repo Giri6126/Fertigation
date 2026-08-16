@@ -2,7 +2,7 @@ Absolutely. Here is a **GitHub-ready project progress summary** you can put into
 
 🌱 Sezhil — Project Status & Development Summary
 
-## Project Name
+Project Name
 
 **Sezhil (செழில்) — AgriPrecision AI**
 
