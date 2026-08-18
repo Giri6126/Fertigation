@@ -4,7 +4,7 @@ Absolutely. Here is a **GitHub-ready project progress summary** you can put into
 
 Project Name
 
-**Sezhil (செழில்) — AgriPrecision AI**
+*Sezhil (செழில்) — AgriPrecision AI*
 
 **AI-Based Adaptive Precision Fertigation & Crop Health Monitoring System**
 
