@@ -313,7 +313,7 @@ The important point is that the dashboard is no longer fed static SHAP-like numb
 
 ---
 
-# 6. Computer Vision Cleanup
+#6. Computer Vision Cleanup
 
 ## `backend/leaf_analyzer.py`
 
