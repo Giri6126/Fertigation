@@ -83,7 +83,7 @@ The intention is to keep the central architecture common between both modes.
 
 ---
 
-# 3. Initial Problem Identified
+3. Initial Problem Identified
 
 The original dashboard contained several hard-coded or simulated values.
 
