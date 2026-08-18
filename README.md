@@ -6,7 +6,7 @@ Project Name
 
 **Sezhil (செழில்) — AgriPrecision AI**
 
-*AI-Based Adaptive Precision Fertigation & Crop Health Monitoring System*
+**AI-Based Adaptive Precision Fertigation & Crop Health Monitoring System**
 
 ---
 
