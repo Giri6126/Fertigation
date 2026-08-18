@@ -29,7 +29,7 @@ The long-term goal is to create a system capable of monitoring crop conditions a
 
 ---
 
-# 2. Current Development Philosophy
+2. Current Development Philosophy
 
 The project has now been intentionally divided into two stages.
 
