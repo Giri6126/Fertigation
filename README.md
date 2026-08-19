@@ -115,7 +115,7 @@ This was identified as unacceptable for the project's technical integrity.
 
 ---
 
-#4. Dataset Mode Cleanup
+4. Dataset Mode Cleanup
 
 A complete cleanup was performed to remove the misleading behavior.
 
