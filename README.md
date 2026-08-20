@@ -484,7 +484,7 @@ This makes it explicit that the image is for testing and is not a Raspberry Pi c
 
 ---
 
-# 8. Raspberry Pi / Camera Status
+#8. Raspberry Pi / Camera Status
 
 The project **does not currently have Raspberry Pi hardware connected**.
 
