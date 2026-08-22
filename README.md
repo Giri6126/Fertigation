@@ -339,7 +339,7 @@ The system currently **does not claim to have a trained CNN-based Grad-CAM imple
 
 ---
 
-#7. Frontend Cleanup
+7. Frontend Cleanup
 
 ## `frontend/index.html`
 
