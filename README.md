@@ -592,7 +592,8 @@ User Uploaded Image
 
 ---
 
-#10. CSS Improvements
+
+10. CSS Improvements
 
 ## `frontend/styles.css`
 
